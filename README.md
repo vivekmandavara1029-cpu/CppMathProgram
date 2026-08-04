@@ -7,7 +7,7 @@ c++ math program is a collection of beginner level programs that explore core C+
 * *digit.cpp*: Counts the number of digits in a given number.
 * *factorialperfect.cpp*: Calculates the factorial of a given number.
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
-* *prime number.cpp*: If a number is divisioble by one and itself is called prime number.
+* *prime number.cpp*: If a number is divisible by one and itself is called prime number.
 * *lcm&hcfboth.cpp*: Computes both the Least Common Multiple (LCM) and Highest Common Factor (HCF) together using simple theorem of arthmetic.
 * *lcmperfect.cpp*: Finds the Least Common Multiple (LCM) of numbers.
 * *triangle validation.cpp*: Checks if three given sides or angles can form a valid triangle.
