@@ -9,6 +9,7 @@ c++ math program is a collection of beginner level programs that explore core C+
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
 * *lcm&hcfboth.cpp*: Computes both the Least Common Multiple (LCM) and Highest Common Factor (HCF) together using simple theorem of arthmetic.
 * *lcmperfect.cpp*: Finds the Least Common Multiple (LCM) of numbers.
+* *palindrome number.cpp*: a Palimdrome Number is a number that stays the same when you reverse its digits.
 * *prime number.cpp*: If a number is divisible by one and itself is called prime number.
 * *table.cpp*: create a table of any number using simple loops concepts under the influence of C++.
 * *triangle validation.cpp*: Checks if three given sides or angles can form a valid triangle.
