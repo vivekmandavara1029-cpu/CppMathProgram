@@ -11,6 +11,7 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
 * *lcm&hcfboth.cpp*: Computes both the Least Common Multiple (LCM) and Highest Common Factor (HCF) together using simple theorem of arthmetic.
 * *lcmperfect.cpp*: Finds the Least Common Multiple (LCM) of numbers.
+* *leap year.cpp*:  Find the leap year using three simples rules of mathematics 1.(divisible by 4) 2.(century exception) 3.(the 400 rule).
 * *palindrome number.cpp*: a Palimdrome Number is a number that stays the same when you reverse its digits.
 * *prime number.cpp*: If a number is divisible by one and itself is called prime number.
 * *quadrant.cpp*: A Quadrant is one of the four parts made when the horizontal x-axis and vertical y-axis cross each other at a right angle on a flat graph.
