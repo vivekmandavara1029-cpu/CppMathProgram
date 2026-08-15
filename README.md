@@ -13,6 +13,7 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *average number.cpp*: the average in math is calculated by the sum of the all the values of n that you given divides by total value of n.
 * *digit.cpp*: Counts the number of digits in a given number.
 * *factorialperfect.cpp*: Calculates the factorial of a given number.
+* first_and_last_digit_swap.cpp*: Swapping the first and last digit means exchanging the very first number (the leading digit) and the very last number (the                                         trailing digit) of a given numerical value.
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
 * *kaprekar number*: A " KAPREKAR NUMBER " is an integer whose square can be split into two parts that add up and the sum is equal to the original number is                            known as a kaprekar number.
 * *lcm&hcfboth.cpp*: Computes both the Least Common Multiple (LCM) and Highest Common Factor (HCF) together using simple theorem of arthmetic.
