@@ -10,22 +10,41 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 ## Programs Included
 
 * *add two number.cpp*: A simple program to add two numbers together.
+ 
 * *average number.cpp*: the average in math is calculated by the sum of the all the values of n that you given divides by total value of n.
+   
 * *digit.cpp*: Counts the number of digits in a given number.
+  
 * *factorialperfect.cpp*: Calculates the factorial of a given number.
-* first_and_last_digit_swap.cpp*: Swapping the first and last digit means exchanging the very first number (the leading digit) and the very last number (the                                         trailing digit) of a given numerical value.
+  
+* *first_and_last_digit_swap.cpp*: Swapping the first and last digit means exchanging the very first number (the leading digit) and the very last number (the                                         trailing digit) of a given numerical value.
+  
+* *first_digit_swap.cpp*: This program is a digit substitution algorithm designed to isolate, extract, and swap the highest-place-value digit (the leading digit) between two numbers while                            keeping all other digits unchanged.
+
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
+  
 * *kaprekar number*: A " KAPREKAR NUMBER " is an integer whose square can be split into two parts that add up and the sum is equal to the original number is                            known as a kaprekar number.
+  
 * *lcm&hcfboth.cpp*: Computes both the Least Common Multiple (LCM) and Highest Common Factor (HCF) together using simple theorem of arthmetic.
+  
 * *lcmperfect.cpp*: Finds the Least Common Multiple (LCM) of numbers.
+  
 * *leap year.cpp*:  Find the leap year using three simples rules of mathematics 1.(divisible by 4) 2.(century exception) 3.(the 400 rule).
+  
 * *palindrome number.cpp*: a Palimdrome Number is a number that stays the same when you reverse its digits.
+  
 * *places_multiply_add.cpp*: Calculates the Addition of Even positioned digits and Multiplies the Odd positioned digits in a given number.it is known as                                          "ALTERNATING DIGIT OPERATIONS".
+  
 * *prime number.cpp*: If a number is divisible by one and itself is called prime number.
+  
 * *quadrant.cpp*: A Quadrant is one of the four parts made when the horizontal x-axis and vertical y-axis cross each other at a right angle on a flat graph.
-* reverse number.cpp*: the reverse number is a mathematical operation that flip the position of the digit in a number so they read in the opposite order.
+  
+* *reverse number.cpp*: the reverse number is a mathematical operation that flip the position of the digit in a number so they read in the opposite order.
+  
 * *table.cpp*: create a table of any number using simple loops concepts under the influence of C++.
+  
 * *triangle validation.cpp*: Checks if three given sides or angles can form a valid triangle.
+  
 * *types of triangle.cpp*: Determines if a triangle is equilateral, isosceles, or scalene.
 
 ## How to Run
