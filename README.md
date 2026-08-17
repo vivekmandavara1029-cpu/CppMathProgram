@@ -12,6 +12,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *add two number.cpp*: A simple program to add two numbers together.
  
 * *average number.cpp*: the average in math is calculated by the sum of the all the values of n that you given divides by total value of n.
+
+* *buzz number.cpp*: A buzz number is a math term for any whole number that either ends with the digit 7 or can be divided evenly by 7 with no remainder. it is also known as thala number.
    
 * *digit.cpp*: Counts the number of digits in a given number.
   
