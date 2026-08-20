@@ -35,6 +35,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
   
 * *leap year.cpp*:  Find the leap year using three simples rules of mathematics 1.(divisible by 4) 2.(century exception) 3.(the 400 rule).
 
+* *max-value.cpp*: find the largest value of the given following numbers. the users give any four number(only integers) now, the output is a largest value.
+
 * *negative to positive.cpp*:This program is an integer sequence generator. It outputs a continuous sequence of whole numbers across a specified number line, moving from left (negative) to                              right (positive). for example : the given input is 10 ,than print the series from (-10 to 10).
   
 * *palindrome number.cpp*: a Palimdrome Number is a number that stays the same when you reverse its digits.
