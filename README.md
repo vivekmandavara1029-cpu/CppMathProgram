@@ -28,6 +28,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
   
 * *kaprekar number*: A " KAPREKAR NUMBER " is an integer whose square can be split into two parts that add up and the sum is equal to the original number is                            known as a kaprekar number.
+
+* *largest-number.cpp*: To find the largest number in the (only three values) given following numbers(integer only). 
   
 * *lcm&hcfboth.cpp*: Computes both the Least Common Multiple (LCM) and Highest Common Factor (HCF) together using simple theorem of arthmetic.
   
