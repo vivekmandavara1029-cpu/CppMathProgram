@@ -16,6 +16,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *both-ascending and descending.cpp*: this program is an interleaved bidirectional sequence generator. It merges two independent arithmetic progressions—one counting down and one counting    up—into a single alternating stream.  check first which is a larger and smaller number. now,the print largest number in descending order until its reaches to one and print the smallest     number in ascending order (start with a one and reaches to smaller number) in alternating manner. for example: given input (a = 5 and b = 7), output is ( 7 , 1 , 6 , 2 , 5 , 3              ,4......1).
 
 * *buzz number.cpp*: A buzz number is a math term for any whole number that either ends with the digit 7 or can be divided evenly by 7 with no remainder. it is also known as thala number.
+
+* *check(odd(or)even_and_posi(or)nega.cpp*: to check the number is odd or even and positive or negative using simple if-else condition concept.
    
 * *digit.cpp*: Counts the number of digits in a given number.
   
