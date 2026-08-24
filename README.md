@@ -50,6 +50,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *prime number.cpp*: If a number is divisible by one and itself is called prime number.
   
 * *quadrant.cpp*: A Quadrant is one of the four parts made when the horizontal x-axis and vertical y-axis cross each other at a right angle on a flat graph.
+
+* *repeated-digit_sum.cpp*: Adding all the digits of a number. If the sum has two or more digits, you add those digits again. You repeat this step until only one single digit is left.This process is known as finding the digital root or repeated digital sum.
   
 * *reverse number.cpp*: the reverse number is a mathematical operation that flip the position of the digit in a number so they read in the opposite order.
   
