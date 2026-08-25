@@ -22,6 +22,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *digit.cpp*: Counts the number of digits in a given number.
   
 * *factorialperfect.cpp*: Calculates the factorial of a given number.
+
+* *find about circle.cpp*: To find the Area , Circumference and Diameter of a circle to a given radius using basic formulas of circle.
   
 * *first_and_last_digit_swap.cpp*: Swapping the first and last digit means exchanging the very first number (the leading digit) and the very last number (the                                         trailing digit) of a given numerical value.
   
