@@ -48,6 +48,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *palindrome number.cpp*: a Palimdrome Number is a number that stays the same when you reverse its digits.
   
 * *places_multiply_add.cpp*: Calculates the Addition of Even positioned digits and Multiplies the Odd positioned digits in a given number.it is known as                                          "ALTERNATING DIGIT OPERATIONS".
+
+* *power_function.cpp*: To calculate and create own function (x) raised to the power of a function (\(x^{f(x)}\)), use the std::power function from the  prototype header with written type(int).
   
 * *prime number.cpp*: If a number is divisible by one and itself is called prime number.
   
