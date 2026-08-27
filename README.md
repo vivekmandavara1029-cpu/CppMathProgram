@@ -21,6 +21,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
    
 * *digit.cpp*: Counts the number of digits in a given number.
   
+* *divide two number and find QandR is even or odd.cpp*:To divide two numbers by each other and find whether the quotients and remainders are even or odd, we need to look at both cases: A divided by B and B divided by A. quotient and remainder is even or odd.
+  
 * *factorialperfect.cpp*: Calculates the factorial of a given number.
 
 * *find about circle.cpp*: To find the Area , Circumference and Diameter of a circle to a given radius using basic formulas of circle.
