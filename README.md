@@ -32,6 +32,8 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 * *first_digit_swap.cpp*: This program is a digit substitution algorithm designed to isolate, extract, and swap the highest-place-value digit (the leading digit) between two numbers while                            keeping all other digits unchanged.
 
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
+
+* *isprime_function.cpp*:To find and create own isprime function using the simple function concept. use the std::isprime function from the prototype header with written type(int).
   
 * *kaprekar number*: A " KAPREKAR NUMBER " is an integer whose square can be split into two parts that add up and the sum is equal to the original number is                            known as a kaprekar number.
 
