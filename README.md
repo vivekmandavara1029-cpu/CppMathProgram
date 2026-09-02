@@ -33,9 +33,9 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
 
 * *hcfperfect.cpp*: Finds the Highest Common Factor (HCF) / Greatest Common Divisor (GCD) of numbers.
 
-* *isprime_function.cpp*:To find and create own isprime function using the simple function concept. use the std::isprime function from the prototype header with written type(int).
+* *isprime_function.cpp*:To find and create your own isprime function using the simple function concept. use the std::isprime function from the prototype header with written type(int).
   
-* *kaprekar number*: A " KAPREKAR NUMBER " is an integer whose square can be split into two parts that add up and the sum is equal to the original number is                            known as a kaprekar number.
+* *kaprekar number*: A " KAPREKAR NUMBER " is an integer whose square can be split into two parts that add up and the sum is equal to the original number is known as a kaprekar number.
 
 * *largest-number.cpp*: To find the largest number in the (only three values) given following numbers(integer only). 
   
@@ -53,13 +53,15 @@ welcome to the *cpp_math_program*! this repository is a dedicated for foundament
   
 * *places_multiply_add.cpp*: Calculates the Addition of Even positioned digits and Multiplies the Odd positioned digits in a given number.it is known as                                          "ALTERNATING DIGIT OPERATIONS".
 
-* *power_function.cpp*: To calculate and create own function (x) raised to the power of a function (\(x^{f(x)}\)), use the std::power function from the  prototype header with written type(int).
+* *power_function.cpp*: To calculate and create your own function (x) raised to the power of a function (\(x^{f(x)}\)), use the std::power function from the  prototype header with written type(int).
   
 * *prime number.cpp*: If a number is divisible by one and itself is called prime number.
   
 * *quadrant.cpp*: A Quadrant is one of the four parts made when the horizontal x-axis and vertical y-axis cross each other at a right angle on a flat graph.
 
 * *repeated-digit_sum.cpp*: Adding all the digits of a number. If the sum has two or more digits, you add those digits again. You repeat this step until only one single digit is left.This process is known as finding the digital root or repeated digital sum.
+
+* *reverse function.cpp*: to create your own reverse function using the simple function concept. use the std::reverse function from the prototype header with written type(int).                for example : if user given a input ( n = 123 ) now, the output is 321.
   
 * *reverse number.cpp*: the reverse number is a mathematical operation that flip the position of the digit in a number so they read in the opposite order.
   
