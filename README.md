@@ -1,5 +1,5 @@
 # CppMathProgram
-c++ math program is a collection of beginner level programs that explore core C++ concepts,  if else condition ,loops,pattern, arrays,character and nesting. Each project focuses on learning by doing — turning practical into real, working code.
+CppMathProgram is a collection of beginner level programs that explore core C++ concepts,  if else condition ,loops,pattern, arrays,character and nesting. Each project focuses on learning by doing — turning practical into real, working code.
 welcome to the *cpp_math_program*! this repository is a dedicated for foundamental concepets of c++ , basics of data structured algorithm ,and competative programming.
 
 ## 📌 Features
